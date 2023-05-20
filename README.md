@@ -14,11 +14,11 @@ Feel free to reach out if you'd like to collaborate or just say hi! :wave: You c
 
 ### :hammer_and_wrench: Skills and Tools
 
-#### Languages: JavaScript,Python,Java,C#,SQL,HTML,CSS
+- Languages: JavaScript,Python,Java,C#,SQL,HTML,CSS
 
-#### Frameworks/Tools:React,Redux,Express,Flask,Sequelize,SQLAlchemy,PostgreSQL,AWS,Docker
+- Frameworks/Tools:React,Redux,Express,Flask,Sequelize,SQLAlchemy,PostgreSQL,AWS,Docker
 
-#### Development Techniques:Test-Driven Development(TDD),Object-Oriented Programming(OOP),Service-Oriented (SO),Pair Programming,Scrum Methodologies,Agile development
+- Development Techniques:Test-Driven Development(TDD),Object-Oriented Programming(OOP),Service-Oriented (SO),Pair Programming,Scrum Methodologies,Agile development
 
 ![](https://skillicons.dev/icons?perline=15&i=js,python,java,swift,ts,solidity,nodejs,express,flask,sqlite,postgresql,mysql,react,redux,sequelize,docker,github,git,stackoverflow,vscode,idea,html,css,bootstrap,md,regex,aws,linux,bash)
 
