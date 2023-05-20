@@ -22,7 +22,7 @@ I'm Iris :woman_technologist:, currently based in San Diego.I'm a software engin
 </div>
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Iris06-cs&theme=cobalt" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Iris06-cs&theme=panda&background=474E68" />
 </div>
 
 ### :hammer_and_wrench: Skills and Tools
