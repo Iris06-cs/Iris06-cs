@@ -40,6 +40,6 @@ Feel free to reach out if you'd like to collaborate or just say hi! :wave: You c
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Iris06-cs&theme=panda&background=474E68" />
-</div>
+</div> -->
