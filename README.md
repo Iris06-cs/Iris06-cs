@@ -28,6 +28,10 @@ Feel free to reach out if you'd like to collaborate or just say hi! :wave: You c
 
 [Guestay](https://github.com/Iris06-cs/Guestay-airbnb-clone)
 
+[PetOverload](https://github.com/Iris06-cs/pet-overload)
+
+[Christmas Reward Calendar](https://github.com/Iris06-cs/Mini_Holiday_Hackathon)
+
 <!-- [PetOverload](link_to_project_2) -->
 
 ### :trophy: My Github Stats
