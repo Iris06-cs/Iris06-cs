@@ -35,7 +35,7 @@ Feel free to reach out if you'd like to collaborate or just say hi! :wave: You c
 <div align="center">
 <span>  </span>
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Iris06-cs&show_icons=true&theme=cobalt" /><span> </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iris06-cs&layout=compact&theme=cobalt&size_weight=0.5&count_weight=0.5&langs_count=10" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Iris06-cs&show_icons=true&theme=cobalt&count_private=true" /><span> </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iris06-cs&layout=compact&theme=cobalt&size_weight=0.5&count_weight=0.5&langs_count=10" />
 <span> </span>
 
 </div>
