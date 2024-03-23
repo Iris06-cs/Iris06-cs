@@ -32,14 +32,12 @@ Feel free to reach out if you'd like to collaborate or just say hi! :wave: You c
 
 [Christmas Reward Calendar](https://github.com/Iris06-cs/Mini_Holiday_Hackathon)
 
-<!-- [PetOverload](link_to_project_2) -->
-
 ### :trophy: My Github Stats
 
 <div align="center">
 <span>  </span>
 
-<img height="170px" src="https://github-readme-stats-rho-eight-61.vercel.app/api?username=Iris06-cs&show_icons=true&theme=cobalt" /><span> </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iris06-cs&layout=compact&theme=cobalt&size_weight=0.5&count_weight=0.5&langs_count=10" />
+<img height="170px" src="https://github-readme-stats-rho-eight-61.vercel.app/api?username=Iris06-cs&show_icons=true&theme=cobalt" /><span> </span><img height="170px" src="https://github-readme-stats-rho-eight-61.vercel.app/api/top-langs/?username=Iris06-cs&layout=compact&theme=cobalt&size_weight=0.5&count_weight=0.5&langs_count=10" />
 <span> </span>
 
 </div>
